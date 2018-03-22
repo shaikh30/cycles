@@ -1,0 +1,1 @@
+$('element').cycle({	fx: 'effectName',	speed: 300,	timeout: 1000,	delay: 0});
